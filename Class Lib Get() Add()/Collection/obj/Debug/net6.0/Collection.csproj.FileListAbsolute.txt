@@ -1,0 +1,11 @@
+C:\Users\Rashad\Desktop\ConsoleApp1\Collection\bin\Debug\net6.0\Collection.deps.json
+C:\Users\Rashad\Desktop\ConsoleApp1\Collection\bin\Debug\net6.0\Collection.dll
+C:\Users\Rashad\Desktop\ConsoleApp1\Collection\bin\Debug\net6.0\Collection.pdb
+C:\Users\Rashad\Desktop\ConsoleApp1\Collection\obj\Debug\net6.0\Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashad\Desktop\ConsoleApp1\Collection\obj\Debug\net6.0\Collection.AssemblyInfoInputs.cache
+C:\Users\Rashad\Desktop\ConsoleApp1\Collection\obj\Debug\net6.0\Collection.AssemblyInfo.cs
+C:\Users\Rashad\Desktop\ConsoleApp1\Collection\obj\Debug\net6.0\Collection.csproj.CoreCompileInputs.cache
+C:\Users\Rashad\Desktop\ConsoleApp1\Collection\obj\Debug\net6.0\Collection.dll
+C:\Users\Rashad\Desktop\ConsoleApp1\Collection\obj\Debug\net6.0\refint\Collection.dll
+C:\Users\Rashad\Desktop\ConsoleApp1\Collection\obj\Debug\net6.0\Collection.pdb
+C:\Users\Rashad\Desktop\ConsoleApp1\Collection\obj\Debug\net6.0\ref\Collection.dll

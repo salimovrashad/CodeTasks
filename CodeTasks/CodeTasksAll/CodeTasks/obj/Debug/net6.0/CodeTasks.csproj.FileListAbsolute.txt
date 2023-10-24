@@ -1,0 +1,14 @@
+C:\Users\Rashad\Desktop\CodeTasks\CodeTasks\bin\Debug\net6.0\CodeTasks.exe
+C:\Users\Rashad\Desktop\CodeTasks\CodeTasks\bin\Debug\net6.0\CodeTasks.deps.json
+C:\Users\Rashad\Desktop\CodeTasks\CodeTasks\bin\Debug\net6.0\CodeTasks.runtimeconfig.json
+C:\Users\Rashad\Desktop\CodeTasks\CodeTasks\bin\Debug\net6.0\CodeTasks.dll
+C:\Users\Rashad\Desktop\CodeTasks\CodeTasks\bin\Debug\net6.0\CodeTasks.pdb
+C:\Users\Rashad\Desktop\CodeTasks\CodeTasks\obj\Debug\net6.0\CodeTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashad\Desktop\CodeTasks\CodeTasks\obj\Debug\net6.0\CodeTasks.AssemblyInfoInputs.cache
+C:\Users\Rashad\Desktop\CodeTasks\CodeTasks\obj\Debug\net6.0\CodeTasks.AssemblyInfo.cs
+C:\Users\Rashad\Desktop\CodeTasks\CodeTasks\obj\Debug\net6.0\CodeTasks.csproj.CoreCompileInputs.cache
+C:\Users\Rashad\Desktop\CodeTasks\CodeTasks\obj\Debug\net6.0\CodeTasks.dll
+C:\Users\Rashad\Desktop\CodeTasks\CodeTasks\obj\Debug\net6.0\refint\CodeTasks.dll
+C:\Users\Rashad\Desktop\CodeTasks\CodeTasks\obj\Debug\net6.0\CodeTasks.pdb
+C:\Users\Rashad\Desktop\CodeTasks\CodeTasks\obj\Debug\net6.0\CodeTasks.genruntimeconfig.cache
+C:\Users\Rashad\Desktop\CodeTasks\CodeTasks\obj\Debug\net6.0\ref\CodeTasks.dll
